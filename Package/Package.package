@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8a44cb88-e818-442a-9d26-6d283b1d6a89" solutionId="8a44cb88-e818-442a-9d26-6d283b1d6a89" resetWebServer="false" name="AAA_UploadFileTimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
-  <features>
-    <featureReference itemId="97ba45d1-ccae-4168-ab6e-d35d423df869" />
-  </features>
-</package>
