@@ -1,0 +1,7 @@
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\bin\Debug\AAA_UploadFileTimerJob.dll
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\bin\Debug\AAA_UploadFileTimerJob.pdb
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\obj\Debug\ResolveAssemblyReference.cache
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\obj\Debug\AAA_UploadFileTimerJob.dll
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\obj\Debug\AAA_UploadFileTimerJob.pdb
+C:\SharePoint Practice Projects\AAA_UploadFileTimerJob\obj\Debug\AAA_UploadFileTimerJob.csproj.ResolveComReference.cache
