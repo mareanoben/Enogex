@@ -1,1 +1,0 @@
-bin\Debug\AAA_UploadFileTimerJob.wsp

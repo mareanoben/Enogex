@@ -1,2 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="FileLoader" Id="0423974c-f718-4a07-a124-fb99c60e04cd" ReceiverAssembly="AAA_UploadFileTimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2d9595f99f0931e8" ReceiverClass="FileLoaderTimerJob.Features.Feature1.Feature1EventReceiver" Scope="WebApplication"></Feature>
